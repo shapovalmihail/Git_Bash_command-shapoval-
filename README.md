@@ -1,5 +1,5 @@
 # Git_Bash_command-shapoval-
-HW_1 Shapoval Mikhail
+# HW_1 Shapoval Mikhail
 
 Linux terminal (GitBash) commands
 |  ID  |  Task  |    Answer |
